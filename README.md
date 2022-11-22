@@ -13,7 +13,7 @@ link: https://jaztynn.github.io/HTMLCC/
   1. git --version (to see if git is installed)
   2. git config --global user.email "your@email.com"
   3. git config --global user.name "Yourname"
-  4. git remote add origin
+  4. git remote add origin [url]
   5. git status
 - how to upload code to GitHub:
   1. git init
