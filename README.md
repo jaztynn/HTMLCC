@@ -21,4 +21,5 @@ link: https://jaztynn.github.io/HTMLCC/
   3. git add .
   4. git commit -m "comment"
   5. git push
+- learnt a few keyboard shortcuts including ctrl+enter to go to next line without moving other words and ctrl+arrow to move across words
 - i learnt basic elements of html, but writing this a few days after i learnt it and with sufficient practice, i learnt that the familiarity and daily practice helps commit these details to long term memory. even so, i will continue to document what i've learnt immediately as much as i can. most of what i've learnt here, i learnt again in fcc and my records of what i've learnt are more in detail in the other repositories.
